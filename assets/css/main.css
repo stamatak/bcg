@@ -3306,8 +3306,9 @@ mark, .mark {
     padding: 10px;
     margin: 50px 0;
     background-color: white;
-    text-align: center;
+   
     transition: all ease .3s;
+   
 }
 
 .textbox:hover {
@@ -3335,7 +3336,7 @@ mark, .mark {
 }
 
 .textbox__description {
-    color: #c2c2c2;
+    color: #000000;
 }
 
 .textbox__style-02 {
@@ -4668,4 +4669,10 @@ mark, .mark {
     right: 0;
     bottom: 50px;
     position: absolute;
+}
+
+.consult-ol {
+    color: #000000;   
+    padding: 20px;
+    font-size: 22px;
 }
