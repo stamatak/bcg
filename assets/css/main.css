@@ -3311,6 +3311,7 @@ mark, .mark {
    
 }
 
+
 .textbox:hover {
     box-shadow: 0 15px 50px 0 rgba(0, 0, 0, .2);
 }
@@ -3336,7 +3337,7 @@ mark, .mark {
 }
 
 .textbox__description {
-    color: #000000;
+    color: #413F3D;
 }
 
 .textbox__style-02 {
