@@ -3649,6 +3649,7 @@ mark, .mark {
     color: #f39c12;
 }
 
+
 .footer__main {
     padding: 80px 15px 50px;
 }
@@ -3664,12 +3665,20 @@ mark, .mark {
         padding: 140px 75px 60px;
     }
 }
-
+.footer__copyright a {
+    color: #f39c12;
+}
 .footer__copyright {
     text-align: center;
     padding: 15px 0;
     border-top: 1px solid rgba(235, 235, 235, .1);
 }
+
+
+
+
+
+
 
 .footer__item {
     margin-bottom: 40px;
